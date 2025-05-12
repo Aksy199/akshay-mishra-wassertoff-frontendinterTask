@@ -16,7 +16,7 @@ using react js and tailwind css
 
 
 it is mobile responsive as tailwind css is mobile responsive
-here are some screenshot of developing phas of this project
+here are some screenshot of developing phase of this project
 
 
 ![Screenshot (320)](https://github.com/user-attachments/assets/22cd0584-1a8d-444a-bfe7-10ec5bea8153)
