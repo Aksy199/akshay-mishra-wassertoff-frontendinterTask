@@ -18,7 +18,7 @@ function App() {
       alert("Please fill all the fields and upload a photo");
     }
   };
-  // setting up event handler for all the fields not filled condition and generating alert//
+  // setting up event listener for all the fields not filled condition and generating alert//
 
   const handlePhotoUpload = (e) => {
     const file = e.target.files[0];
@@ -30,7 +30,7 @@ function App() {
       reader.readAsDataURL(file);
     }
   };
-  // event handler for photo uploading//
+  // event listener for photo uploading//
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-violet-600 p-4">
